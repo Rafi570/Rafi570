@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rafi570/Rafi570/blob/main/assets/mern%20banner.png" alt="MERN Banner" width="100%"/>
+  <img src="https://github.com/Rafi570/Rafi570/blob/main/assets/MERN-Stack-2048x102-1-1536x768.jpg" alt="MERN Banner" width="100%"/>
 </p>
 
 
