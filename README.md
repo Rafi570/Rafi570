@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Rafi570/Rafi570/blob/main/assets/mern%20banner.png" alt="MERN Banner" width="100%"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Hasan Rafi Ahmed</h1>
 <h3 align="center">MERN Stack Developer & Competitive Programmer from Bangladesh</h3>
 
