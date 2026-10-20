@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-banner.jpg" alt="Hasan Rafi Ahmed Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Rafi570/Rafi570/main/assets/header-banner.jpg" alt="Hasan Rafi Ahmed Banner" width="100%"/>
 </p>
 
 
