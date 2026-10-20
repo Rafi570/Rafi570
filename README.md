@@ -47,12 +47,40 @@ I’m also passionate about **problem-solving** and **Competitive Programming**,
 
 ---
 
+## 🤖 AI Engineering & LLM Integration
+
+I leverage cutting-edge **Artificial Intelligence & Large Language Models** to build intelligent, autonomous, and scalable software solutions:
+
+- **RAG Architectures:** Designing Retrieval-Augmented Generation pipelines using Vector Databases (ChromaDB, Pinecone, pgvector) for dynamic context injection.
+- **LLM Orchestration & Agents:** Building multi-step AI agents and workflows using **LangChain** and modern LLM APIs (OpenAI, Gemini, Anthropic).
+- **Prompt Engineering:** Expert in structured JSON outputs, system prompt optimization, chain-of-thought reasoning, and few-shot learning.
+- **AI-Powered Applications:** Seamlessly integrating intelligent chatbots, smart search, and automated workflows into Full-Stack Web & Mobile apps.
+- **AI-Augmented Development:** Utilizing modern AI tools to accelerate development velocity, code quality, and testing by 10x.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-5C2D91?style=for-the-badge&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logoColor=white" alt="Vector DB" />
+</p>
+
+---
+
 ## 🏆 Competitive Programming & Problem Solving
 
 - **ICPC Qualifier:** 2024 (Dhaka Regional)  
-- **Problem Solving:** 500+ problems solved across **Codeforces, LeetCode, NeetCode.io, HackerRank**  
+- **Problem Solving:** 500+ problems solved across [Codeforces](https://codeforces.com/profile/rafi01), [LeetCode](https://leetcode.com/u/user8971o/), [HackerRank](https://www.hackerrank.com/profile/hasan_cse570), [beecrowd](https://judge.beecrowd.com/en/profile/619839), and NeetCode.io  
 - Active on multiple competitive programming platforms with consistent practice  
 - Strong understanding of **Data Structures & Algorithms**, problem-solving patterns, debugging, and optimization  
+
+<p align="left">
+  <a href="https://codeforces.com/profile/rafi01" target="_blank"><img src="https://img.shields.io/badge/Codeforces-rafi01-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/user8971o/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-user8971o-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/hasan_cse570" target="_blank"><img src="https://img.shields.io/badge/HackerRank-hasan__cse570-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://judge.beecrowd.com/en/profile/619839" target="_blank"><img src="https://img.shields.io/badge/beecrowd-619839-E53935?style=for-the-badge" alt="beecrowd" /></a>
+</p>
 
 ---
 
