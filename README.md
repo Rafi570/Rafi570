@@ -71,13 +71,14 @@ I leverage cutting-edge **Artificial Intelligence & Large Language Models** to b
 ## 🏆 Competitive Programming & Problem Solving
 
 - **ICPC Qualifier:** 2024 (Dhaka Regional)  
-- **Problem Solving:** 500+ problems solved across [Codeforces](https://codeforces.com/profile/rafi01), [LeetCode](https://leetcode.com/u/user8971o/), [HackerRank](https://www.hackerrank.com/profile/hasan_cse570), [beecrowd](https://judge.beecrowd.com/en/profile/619839), and NeetCode.io  
+- **Problem Solving:** 500+ problems solved across [Codeforces](https://codeforces.com/profile/rafi01), [LeetCode](https://leetcode.com/u/user8971o/), [NeetCode](https://neetcode.io/user/JetObelisk781), [HackerRank](https://www.hackerrank.com/profile/hasan_cse570), and [beecrowd](https://judge.beecrowd.com/en/profile/619839)  
 - Active on multiple competitive programming platforms with consistent practice  
 - Strong understanding of **Data Structures & Algorithms**, problem-solving patterns, debugging, and optimization  
 
 <p align="left">
   <a href="https://codeforces.com/profile/rafi01" target="_blank"><img src="https://img.shields.io/badge/Codeforces-rafi01-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://leetcode.com/u/user8971o/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-user8971o-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://neetcode.io/user/JetObelisk781" target="_blank"><img src="https://img.shields.io/badge/NeetCode-JetObelisk781-4F46E5?style=for-the-badge" alt="NeetCode" /></a>
   <a href="https://www.hackerrank.com/profile/hasan_cse570" target="_blank"><img src="https://img.shields.io/badge/HackerRank-hasan__cse570-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
   <a href="https://judge.beecrowd.com/en/profile/619839" target="_blank"><img src="https://img.shields.io/badge/beecrowd-619839-E53935?style=for-the-badge" alt="beecrowd" /></a>
 </p>
